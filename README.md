@@ -1,0 +1,2 @@
+# cgcx
+New static website 
